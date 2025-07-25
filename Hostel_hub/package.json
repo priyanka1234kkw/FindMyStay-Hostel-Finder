@@ -9,7 +9,7 @@
     "start": "npm start"
   },
   "keywords": [],
-  "author": "Aryan Upadhyay",
+  "author": "Priyanka Kshirsagar",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
