@@ -1,7 +1,7 @@
 {
-  "name": "pg-finder-v2",
+  "name": "FindMyStay",
   "version": "1.0.0",
-  "description": "A PG Finding application built using Node & Express JS.",
+  "description": "A hostel Finding application built using Node & Express JS.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
